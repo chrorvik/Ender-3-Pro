@@ -2,7 +2,9 @@
  * Marlin 3D Printer Firmware
  * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
- * Customized for hanshawx's printer: Ender 3 Pro, MS Direct Drive + hotend, Trianglelab 3D touch (BLTouch generic).
+ * Customized for chrorvik printer: Ender 3 Pro, MS Direct drive + all metal hotend, Antclabs Trianglelab 3D Touch. 
+ * Based on hanshawx's config files. He has printer: Ender 3 Pro, MS Direct Drive + hotend, Trianglelab 3D touch (BLTouch generic).
+ * More info go to https://github.com/hansenliang/Ender-3-Pro-MS-Direct-Drive-BLTouch
  * 
  * Based on Sprinter and grbl.
  * Copyright (c) 2011 Camiel Gubbels / Erik van der Zalm
